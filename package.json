@@ -1,0 +1,24 @@
+{
+  "name": "vesta-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "starter.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "ip": "^1.1.5",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mqtt": "^2.7.2",
+    "noble": "^1.8.1",
+    "node-pre-gyp": "^0.6.30",
+    "python-shell": "^0.4.0",
+    "through": "^2.3.8",
+    "watson-developer-cloud": "^2.32.1"
+  }
+}
