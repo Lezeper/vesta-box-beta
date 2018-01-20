@@ -3,6 +3,27 @@ Vesta Box (VB) is a terminal box for Smart Home Assistant(SHA). Followes the SHA
 The main task for this box is provided a voice driven plateform for user.
 The cost is below $35(measured with the price on the market), cheap but powerful.
 The biggest challenge is the ASR accurate and responsive speed.
+(The server code for SHA is not going to be public)
+
+![Alt text](http://imlewis.com/sha/v1.jpg?raw=true "Title")
+![Alt text](http://imlewis.com/sha/v2.jpg?raw=true "Title")
+
+## Some Demos
+### Indoor Location Detection
+When we say "turn on the light", the system would able to detect your location and turn on the light which near to you. In the demo, I used to turn off all the light when I says "turn off the light" in my bedroom.
+http://imlewis.com/sha/001.mp4
+### Streaming as you go
+When the SAYG(steam as you go) mode turn on. You can continue doing your stuff when you leaving your desktop, it will automatically streaming to the screen which near to you.
+http://imlewis.com/sha/002.mp4
+### Saying by using multiple language
+In the demo, I am asking Vesta the time by using English and Japanese.
+http://imlewis.com/sha/004.mp4
+### Wakeup Module
+In the demo, I am dropping my phone(or glasses) in the box and it will trigger the sleeping mode, turn off all the light and computer. Take out the phone from the box and the system will assume you are wakeup, then giving your information about today's weather and plan.
+http://imlewis.com/sha/006.mp4
+### OLED version of VB
+The first version of VB, I removed this OLED later since I dont think it is necessary.
+http://imlewis.com/sha/003.mp4
 
 ## Install and configuration
 * Install vesta box ISO image
@@ -81,6 +102,3 @@ Audio Streaming Player
 ## BUGS
 * ps3 eye will not working on reboot
 * MUST do AEC, or listening to music will never triger the wakeup word.
-
-![Alt text](http://imlewis.com/sha/v1.jpg?raw=true "Title")
-![Alt text](http://imlewis.com/sha/v2.jpg?raw=true "Title")
