@@ -11,6 +11,7 @@ The biggest challenge is the ASR accurate and responsive speed.
 ## Some Demos
 ### Indoor Location Detection
 When we say "turn on the light", the system would able to detect your location and turn on the light which near to you. In the demo, I used to turn off all the light when I says "turn off the light" in my bedroom.
+This is the first portable version of VB.
 http://imlewis.com/sha/001.mp4
 ### Streaming as you go
 When the SAYG(steam as you go) mode turn on. You can continue doing your stuff when you leaving your desktop, it will automatically streaming to the screen which near to you.
@@ -22,7 +23,7 @@ http://imlewis.com/sha/004.mp4
 In the demo, I am dropping my phone(or glasses) in the box and it will trigger the sleeping mode, turn off all the light and computer. Take out the phone from the box and the system will assume you are wakeup, then giving your information about today's weather and plan.
 http://imlewis.com/sha/006.mp4
 ### OLED version of VB
-The first version of VB, I removed this OLED later since I dont think it is necessary.
+The second version of VB, I removed this OLED later since I dont think it is necessary.
 http://imlewis.com/sha/003.mp4
 
 ## Install and configuration
