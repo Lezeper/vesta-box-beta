@@ -4,9 +4,6 @@ The main task for this box is provided a voice driven plateform for user.
 The cost is below $35(measured with the price on the market), cheap but powerful.
 The biggest challenge is the ASR accurate and responsive speed.
 
-# Version
-v0.1.4
-
 ## Install and configuration
 * Install vesta box ISO image
 * Change HostName
@@ -84,3 +81,6 @@ Audio Streaming Player
 ## BUGS
 * ps3 eye will not working on reboot
 * MUST do AEC, or listening to music will never triger the wakeup word.
+
+![Alt text](http://imlewis.com/sha/v1.jpg?raw=true "Title")
+![Alt text](http://imlewis.com/sha/v2.jpg?raw=true "Title")
