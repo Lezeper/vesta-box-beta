@@ -5,8 +5,11 @@ The cost is below $35(measured with the price on the market), cheap but powerful
 The biggest challenge is the ASR accurate and responsive speed.
 (The server code for SHA is not going to be public)
 
-![Alt text](http://imlewis.com/sha/v1.jpg?raw=true "Title")
-![Alt text](http://imlewis.com/sha/v2.jpg?raw=true "Title")
+![Alt text](http://resource.imlewis.com/img/sha/3.jpg?raw=true "Title")
+
+## Some other versions
+![Alt text](http://resource.imlewis.com/img/sha/1.jpg?raw=true "Title")
+![Alt text](http://resource.imlewis.com/img/sha/2.jpg?raw=true "Title")
 
 ## Some Demos
 ### Indoor Location Detection
